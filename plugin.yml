@@ -1,0 +1,19 @@
+name: HeartsDP
+main: HeartsDP\Main
+version: 1.0
+api: 3.0.0
+author: JUZEXMOD
+
+commands:
+  hearts:
+    Usage: /heart on | off
+    description: hearts Command
+
+permission:
+  heart.on:
+    description: "Command Discription"
+    default: op
+
+  heart.off:
+    description: "Command Discription2"
+    default: op
